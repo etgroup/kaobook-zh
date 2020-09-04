@@ -29,7 +29,7 @@ Happy LaTeXing！~
    ```
 3. 在与`main.tex` 同级目录下存在`.latexmkrc` 脚本文件的情况下，执行：
    ```
-   latexmk
+   latexmk 
    ```
 - 如需清理论文编译过程中的临时文件，可以：
    ```
